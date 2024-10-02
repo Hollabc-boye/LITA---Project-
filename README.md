@@ -3,7 +3,7 @@
 ### Project Title: 
 
 ### Project Overview: 
-
+---
 ### Data Sources 
 
 ### Tools Used 
@@ -15,3 +15,8 @@
 - SQL - Structured Query language for querying of Data 
 - GitHub for Portfolio Building 
 
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
