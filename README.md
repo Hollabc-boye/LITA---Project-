@@ -8,7 +8,7 @@ The Data Analysis Project aims to generate insights into the sales performance o
 
 ### Data Sources 
 ---
-The Primary source of Data used here is [LITA Class Inventory.xlsx](https://github.com/user-attachments/files/17350783/LITA.Class.Inventory.xlsx)
+The Primary source of Data used here is LITA Class Inventory.xlsx 
 tory and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other data repository site. 
 
 
