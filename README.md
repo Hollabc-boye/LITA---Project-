@@ -1,15 +1,14 @@
-# LITA_Class Documentation 
+# LITA_Class Project  
 ---
 ## Project Topic: Regional Sales Analysis
 ---
 ### Project Overview 
---- 
-The Data Analysis Project aims to generate insights into the Regional Sales Performance within a particular period by analysing the various parameters in the data received, we seek to understand the correlation of each product, region and period with the highest turnover which then enable us to know the best performance from our data. 
-This is a comprehensive insight of a Regional Sales Report across a certain region, market and store for a particular fiscal period.
+---  
+This is a comprehensive analysis of a Sales Performance across a various region, market and store for a defined fiscal period. This is to gain valuable insights into the Regional Sales Performance within a particular period. By analysing the various parameters in the data received, we seek to understand the correlation of product sales, and geographic locations; customer preferences,to region and period with the highest turnover which then enable us to know the best performance from our data.
 
 ### Data Source(s)
 ---
-The Data used here is named as LITA Class Inventory.xlsx.
+The Data used here is named LITA Class Inventory.xlsx.
 The source of this data is from LITA Data Analysis Class Telegram Group. It is shared by the instructor through the administrator of the group and this Data showed the data collation of Sales Analysis from certian regions with the following notable parameters;
 - Region: The territory where the transaction occurred 
 - Market: The geographical area where the sales were made
@@ -35,7 +34,7 @@ To analyse this data, the following tools were used
 2. SQL - Structured Query language [Download Here](https://www.microsoft.com)
   - For Querying of Data 
   
-3. GitHub
+3. GitHub [Download Here](https://www.github.com)
   - For Portfolio Building 
 
 ### Data Cleaning and Preparations 
@@ -44,6 +43,7 @@ In the initial phase of the Data cleaning and preparaions, we perform the follow
 - Data Loading Inspection
 - Handling Missing Variables
 - Data Cleaning and Formatting
+  The data cleaning and preparation process includes dealing with null values, text extraction & trimming, dropping unneeded columns, converting data types amd cleaning up the values
 
 ### Exploratory Data Analysis 
 ---
