@@ -37,17 +37,53 @@ The following tools were used
 
 1. Microsoft Excel [Download Here](https://www.microsoft.com)
 - For Analysing of Data.
-- For Data Visualization {Chart, Pivot Table}. To translate the complexity and the numerical data into a visual representation for easy comprehension and decision making 
+- For Data Visualization {Charts, Pivot Table}. To translate the complexity and the numerical data into a visual representation for easy comprehension and decision making 
 - 2. GitHub [Download Here](https://www.github.com)
   - For Portfolio Building
     
 - ### Data Visualization
   ---  
-Image 
-Conclusion
---- 
+Ima
+Rev By Reg Pivot 
+Filtered chart for 2014  
+Sals reprt Pix with Slicer Pix bsd it
 
+Rev By Reg Pivot 
+Filtered chart for 2015  
+Sals reprt Pix with Slicer Pix bsd it
+
+Conclusion 
+1. Overall Rev Trends:
+There is a notable decline in total revenue across most regions from 2014 t0 2015. This suggests potential challenges in sales performance or market condition affecting revenue generation
+
+3. Regional Performance: 
+North East: The North Esat region had the highedts revenue in 2014 but shows a significant drop in 2015. This decline may indicate market saturation or increased competition 
+South West: This region also shows a decrease in revenue, although it remeins one of the higher performimg areas 
+south South: The revenue for this region appaears to have decreased slightly, indicating a potential area of concern 
+South East: Similar to the South South, this region also shows a decline in revenue which could suggest challenges in maintaing sales 
+North West and North Central: Both regions show lower revenue figures with North Central consistently trailing behind other regions
+
+3. Revenue Distribution:
+The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014 the gap between regions has narrowed suggesting that overall market conditions maY BE Affecting all regions similRLY
+
+4. Strategic Implications
+   The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of thid decline such as changes in consumer behaviuor, econpmic fctors, or competitive pressures
+Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions, particularly in thr North East and South West
+
+
+Conclusion 
+The revenue data from 2014 to 2015 shows a concerning trend of declining revenue aross most regions. this highlights the need for the company to analyze mkt dcondirion and implement strategies to boost performance and regian lost revenue. Addressing the challenges faced by the Nor Est and South Wet regions in particular will be crucial fro future growth
 ### Exploratory Data Analysis 
+
+2. Region by Units sold
+   Pivot Tbl
+   Reg by unit sol Pix
+
+   Filtrerd chrt for yr 2014
+   Sales rpt pix slicer pix bsd
+
+   Filtrerd chrt for yr 2015
+   Sales rpt pix slicer pix bsd
 ---
 Exploratory Data Analysis (EDA for short) involved the exploring of the Data to answer some questions about the Data such as: 
 - Which Stores has the highest revenue?
