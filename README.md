@@ -43,48 +43,31 @@ The following tools were used
     
 - ### Data Visualization
   ---  
-Pivot Table 
+Pivot Table: Showing the Revenue by Line of Business for the period
 
-Rev By Reg Pivot 
-Filtered chart for 2014  
-Sals reprt Pix with Slicer Pix bsd it
+![Pivot Table (REVENUE BY LINE OF BUSINESS)](https://github.com/user-attachments/assets/2d733f57-53de-4702-8d0a-b6ca27297f57)
 
-Rev By Reg Pivot 
-Filtered chart for 2015  
-Sals reprt Pix with Slicer Pix bsd it
+Pie Chart: visualizing the data of Revenue By Line of business 
 
-Conclusion 
-1. Overall Rev Trends:
-There is a notable decline in total revenue across most regions from 2014 t0 2015. This suggests potential challenges in sales performance or market condition affecting revenue generation
+![Pie Chart (Revenue by Line of Business)](https://github.com/user-attachments/assets/49e2ea80-67fb-4207-9a8f-c56c697df691)
 
-3. Regional Performance: 
-North East: The North Esat region had the highedts revenue in 2014 but shows a significant drop in 2015. This decline may indicate market saturation or increased competition 
-South West: This region also shows a decrease in revenue, although it remeins one of the higher performimg areas 
-south South: The revenue for this region appaears to have decreased slightly, indicating a potential area of concern 
-South East: Similar to the South South, this region also shows a decline in revenue which could suggest challenges in maintaing sales 
-North West and North Central: Both regions show lower revenue figures with North Central consistently trailing behind other regions
+Pivot Table: Showing the top Ten Stores by Revenue for the period
 
-3. Revenue Distribution:
-The bar charts illustrate a clear drop in revenue for 2015 compared to 2014, indicating that while the North East led in 2014 the gap between regions has narrowed suggesting that overall market conditions maY BE Affecting all regions similRLY
+![Pivot Table (Top Ten Stores by Revenue)](https://github.com/user-attachments/assets/d7979c1b-3cb2-4866-b9b8-c0ef17f5f1b0)
 
-4. Strategic Implications
-   The decline in revenue across regions indicates a need for a strategic reassessment. The company may need to investigate the causes of thid decline such as changes in consumer behaviuor, econpmic fctors, or competitive pressures
-Focused marketing efforts and customer engagement strategies may be necessary to revitalize sales in declining regions, particularly in thr North East and South West
+Column Chart: visualizing the data of Top Ten Store by Revenue
 
+![Column Chart (Top Ten Stores by Revenue)](https://github.com/user-attachments/assets/e0f1a069-350d-4328-a1b5-5db795c3c136)
 
-Conclusion 
-The revenue data from 2014 to 2015 shows a concerning trend of declining revenue aross most regions. this highlights the need for the company to analyze mkt dcondirion and implement strategies to boost performance and regian lost revenue. Addressing the challenges faced by the Nor Est and South Wet regions in particular will be crucial fro future growth
+Pivot Table: Showing the bottom Five Stores by Unit Sold for the period
+
+![Pivot Table (BOTTOM 5 STORES BY UNIT SOLD)](https://github.com/user-attachments/assets/54a18cce-5b4c-4ec5-8e74-a12c513c9b43)
+
+Bar Chart: visualizing the data of Bottom Five Store by Unit Sold
+
+![Bar Chart (Bottom Five Stores by Unit Sold)](https://github.com/user-attachments/assets/bdbda41c-68e2-48ca-8e79-8f5d23df0ed1)
+
 ### Exploratory Data Analysis 
-
-2. Region by Units sold
-   Pivot Tbl
-   Reg by unit sol Pix
-
-   Filtrerd chrt for yr 2014
-   Sales rpt pix slicer pix bsd
-
-   Filtrerd chrt for yr 2015
-   Sales rpt pix slicer pix bsd
 ---
 Exploratory Data Analysis (EDA for short) involved the exploring of the Data to answer some questions about the Data such as: 
 - Which Stores has the highest revenue?
@@ -96,42 +79,13 @@ Exploratory Data Analysis (EDA for short) involved the exploring of the Data to 
 
  ### Conclusion 
  ---
-1.The Bottom five Stores by units sold shows a declining trend in Total Unit Sold. This highlights the need for the company to address any existing challenges in the affected stores and come to a conclusion if there is still a need for continuation in the affected Stores if no solution afterward. 
+1.The Bottom five Stores by units sold shows a declining trend in Total Unit Sold. This highlights the need for the company to address any existing challenges such as market competitive or consumer behaviour at the affected stores which is having negative effect on the sales and come to a conclusion if there is still a need for business continuation in the affected Stores if no solutions afterward. The decline margin is more visible with the visualization
 
 The top ten Stores by Revenue shows a thriving trend by Revenue generated within the period. The company can introduce incentives, bonus or promotion to the staffs of the Stores or discount when purchasing the product as an encouragement to do more. 
 
-The Service Plan Line of Business shows a strong thriving trend above others. The company should try all within their means to keep the trend upward by focusing on it's expansion
+The Service Plan Line of Business shows a strong thriving trend above others. The company should try all within their means to keep the trend upward by focusing more on marketing strategies. This can be achieved by maintaining the product's quality/standard, customer engagement, seasonal promo and so on
 
 
-****2. SQL - Structured Query language [Download Here](https://www.microsoft.com)
-  - For Querying of Data 
-  **
- 
-**
-**### Data Cleaning and Preparations 
----
-In the initial phase of the Data cleaning and preparaions, we perform the following actions: 
-- Data Loading Inspection
-- Handling Missing Variables
-- Data Cleaning and Formatting
-  The data cleaning and preparation process includes dealing with null values, text extraction & trimming, dropping unneeded columns, converting data types amd cleaning up the values
-**
-  
-**### Data Analysis 
----
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during our analysis: 
-
-```SQL
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
-```**
 
 
-**1. Data Cleaning lecture
-n
-2. 
-
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------| 
-|Table 1|Table 2|Table 3|**
 
