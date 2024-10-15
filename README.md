@@ -43,7 +43,8 @@ The following tools were used
     
 - ### Data Visualization
   ---  
-Ima
+Pivot Table 
+
 Rev By Reg Pivot 
 Filtered chart for 2014  
 Sals reprt Pix with Slicer Pix bsd it
