@@ -83,7 +83,7 @@ Exploratory Data Analysis (EDA for short) involved the exploring of the Data to 
 
 The top ten Stores by Revenue shows a thriving trend by Revenue generated within the period. The company can introduce incentives, bonus or promotion to the staffs of the Stores or discount when purchasing the product as an encouragement to do more. 
 
-The Service Plan Line of Business shows a strong thriving trend above others. The company should try all within their means to keep the trend upward by focusing more on marketing strategies. This can be achieved by maintaining the product's quality/standard, customer engagement, seasonal promo and so on
+The Service Plan Line of Business shows a strong thriving trend above others. The company should try all within their means to keep the trend upward by focusing more on marketing strategies. This can be achieved by maintaining the product's quality/standard, customer engagement, seasonal promo and so on.
 
 
 
